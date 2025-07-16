@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a Python developer and aspiring AI engineer who loves 
 ### 🤖 Discord Poll Bot
 A fun and simple Discord bot that creates polls using emoji reactions. Built with `discord.py`.
 
-> 🔗 [View on GitHub](https://github.com/Sarac-AI/discord_chatbot)
+> 🔗 [View on GitHub](https://github.com/Sarac-AI/discord_chatbot.py)
 
 ---
 
