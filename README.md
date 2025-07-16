@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Python developer and aspiring AI engineer who loves 
 - 🔭 I’m currently working on: Discord bots, AI agents with LangChain, and automation workflows using Python
 - 🌱 Learning: LangChain, FastAPI and cloud deployment (Render, Railway)
 - 🤖 Passionate about: AI, automation, robotics, and real-world problem solving
-- 📫 How to reach me: [Email](mailto: djordjesarceic2004@gmail.com)
+- 📫 How to reach me: [Email](mailto: djordjesarcevic2004@gmail.com)
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a Python developer and aspiring AI engineer who loves 
 ### 🤖 Discord Poll Bot
 A fun and simple Discord bot that creates polls using emoji reactions. Built with `discord.py`.
 
-> 🔗 [View on GitHub](https://github.com/Sarac-AI/discord-poll-bot)
+> 🔗 [View on GitHub](https://github.com/Sarac-AI/discord_chatbot)
 
 ---
 
